@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="firefox"/>
+  <test name="Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.orangehrm.testCases.TC_002_AdminPage">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="setup"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.orangehrm.testCases.TC_002_AdminPage -->
+      <class name="com.orangehrm.testCases.TC_003_PimTest">
+        <methods>
+          <include name="pimTest"/>
+        </methods>
+      </class> <!-- com.orangehrm.testCases.TC_003_PimTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

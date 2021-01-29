@@ -1,0 +1,113 @@
+2021-01-14 18:22:35,179 [main] INFO automation - Launching url
+2021-01-14 18:22:35,656 [main] INFO automation - Enterd username
+2021-01-14 18:22:35,773 [main] INFO automation - Enterd password
+2021-01-14 18:22:42,935 [main] INFO automation - Cleck on login button
+2021-01-14 18:22:43,411 [main] INFO automation - Login test passed
+2021-01-14 19:39:15,337 [main] INFO automation - Launching url
+2021-01-14 19:39:15,887 [main] INFO automation - Enterd username
+2021-01-14 19:39:15,971 [main] INFO automation - Enterd password
+2021-01-14 19:39:24,027 [main] INFO automation - Cleck on login button
+2021-01-14 19:39:24,173 [main] INFO automation - Login test passed
+2021-01-14 20:10:06,529 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-14 20:10:23,352 [main] INFO automation - Launching Application
+2021-01-14 20:10:25,091 [main] INFO automation - Launching url
+2021-01-14 20:10:25,524 [main] INFO automation - Enterd username
+2021-01-14 20:10:25,578 [main] INFO automation - Enterd password
+2021-01-14 20:10:34,476 [main] INFO automation - Cleck on login button
+2021-01-14 20:10:34,547 [main] INFO automation - Login test passed
+2021-01-15 13:09:36,025 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-15 13:09:58,461 [main] INFO automation - Launching Application
+2021-01-15 13:09:59,849 [main] INFO automation - Launching url
+2021-01-15 13:10:00,106 [main] INFO automation - Enterd username
+2021-01-15 13:10:00,149 [main] INFO automation - Enterd password
+2021-01-15 13:10:06,796 [main] INFO automation - Cleck on login button
+2021-01-15 13:10:06,861 [main] INFO automation - Login test passed
+2021-01-15 18:32:11,961 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-15 18:32:19,822 [main] INFO automation - Launching Application
+2021-01-15 18:32:20,785 [main] INFO automation - Launching url
+2021-01-15 18:32:22,229 [main] INFO automation - Enterd username
+2021-01-15 18:32:22,264 [main] INFO automation - Enterd password
+2021-01-15 18:32:27,621 [main] INFO automation - Cleck on login button
+2021-01-15 18:32:27,649 [main] INFO automation - Login test passed
+2021-01-19 11:02:13,191 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-19 11:02:24,521 [main] INFO automation - Launching Application
+2021-01-19 11:02:25,486 [main] INFO automation - Launching url
+2021-01-19 11:02:25,668 [main] INFO automation - Enterd username
+2021-01-19 11:02:25,701 [main] INFO automation - Enterd password
+2021-01-19 11:02:31,881 [main] INFO automation - Cleck on login button
+2021-01-19 11:02:32,035 [main] INFO automation - Login test passed
+2021-01-20 20:08:37,020 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-20 20:08:45,282 [main] INFO automation - Launching Application
+2021-01-20 20:20:54,179 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-20 20:21:02,864 [main] INFO automation - Launching Application
+2021-01-21 10:06:31,527 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:09:07,850 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:12:52,305 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:16:30,920 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:16:56,492 [main] INFO automation - Launching Application
+2021-01-21 10:20:45,323 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:20:57,251 [main] INFO automation - Launching Application
+2021-01-21 10:49:27,276 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:49:46,894 [main] INFO automation - Launching Application
+2021-01-21 10:54:03,064 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 10:54:14,817 [main] INFO automation - Launching Application
+2021-01-21 11:26:04,723 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 11:26:18,055 [main] INFO automation - Launching Application
+2021-01-21 11:29:01,766 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 11:29:41,350 [main] INFO automation - Launching Application
+2021-01-21 12:09:28,312 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 12:09:51,598 [main] INFO automation - Launching Application
+2021-01-21 12:27:38,974 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 12:28:03,289 [main] INFO automation - Launching Application
+2021-01-21 12:44:51,369 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 12:45:38,086 [main] INFO automation - Launching Application
+2021-01-21 12:48:30,974 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 12:49:21,208 [main] INFO automation - Launching Application
+2021-01-21 12:52:47,034 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-21 12:53:02,482 [main] INFO automation - Launching Application
+2021-01-22 18:33:43,035 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-22 18:33:48,342 [main] INFO automation - Launching Application
+2021-01-25 10:27:20,804 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 10:27:26,605 [main] INFO automation - Launching Application
+2021-01-25 10:37:26,325 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 10:37:42,167 [main] INFO automation - Launching Application
+2021-01-25 10:38:53,082 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 10:39:00,627 [main] INFO automation - Launching Application
+2021-01-25 12:05:29,795 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 12:05:36,891 [main] INFO automation - Launching Application
+2021-01-25 13:29:39,889 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 13:29:52,939 [main] INFO automation - Launching Application
+2021-01-25 13:33:19,175 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 13:33:28,403 [main] INFO automation - Launching Application
+2021-01-25 13:35:37,192 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 13:35:45,178 [main] INFO automation - Launching Application
+2021-01-25 15:12:50,595 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 15:12:56,075 [main] INFO automation - Launching Application
+2021-01-25 15:14:53,709 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-25 15:14:58,671 [main] INFO automation - Launching Application
+2021-01-26 10:44:11,007 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-26 10:44:20,603 [main] INFO automation - Launching Application
+2021-01-29 10:59:26,004 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 10:59:34,001 [main] INFO automation - Launching Application
+2021-01-29 11:03:09,630 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 11:03:16,838 [main] INFO automation - Launching Application
+2021-01-29 11:38:50,113 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 11:39:13,723 [main] INFO automation - Launching Application
+2021-01-29 11:39:44,172 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 11:40:52,863 [main] INFO automation - Launching Application
+2021-01-29 17:45:03,202 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 17:45:10,590 [main] INFO automation - Launching Application
+2021-01-29 17:45:45,027 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 17:45:54,155 [main] INFO automation - Launching Application
+2021-01-29 17:47:52,738 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 17:48:01,399 [main] INFO automation - Launching Application
+2021-01-29 17:48:38,915 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 17:48:47,293 [main] INFO automation - Launching Application
+2021-01-29 17:59:10,061 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 17:59:16,306 [main] INFO automation - Launching Application
+2021-01-29 17:59:40,312 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 17:59:47,149 [main] INFO automation - Launching Application
+2021-01-29 18:06:07,883 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 18:06:17,063 [main] INFO automation - Launching Application
+2021-01-29 18:12:01,344 [main] INFO automation - Firefox driver launched sucessfully
+2021-01-29 18:12:10,778 [main] INFO automation - Launching Application
