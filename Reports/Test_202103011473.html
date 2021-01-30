@@ -32,10 +32,10 @@
 </ul>
 <ul class="nav-right">
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Exicution result for testDefault test</span></a>
+<a href="#"><span class="badge badge-primary">Exicution result for testTest</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">15-01-2021 13:07:46</span></a>
+<a href="#"><span class="badge badge-primary">30-01-2021 11:47:03</span></a>
 </li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
 <ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
 <div class="dropdown-divider"></div>
 <a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
 </ul>
@@ -73,6 +74,54 @@
 </ul>
 </div>    <div class="test-list-wrapper scrollable">
       <ul class="test-list-item">
+        <li class="test-item"  status="pass" test-id="1"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">adminTest</p>
+            <p class="text-sm">
+              <span>11:47:27 AM</span> / <span>00:00:00:000</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">adminTest</h5>
+<span class='badge badge-success'>01.30.2021 11:47:27</span>
+<span class='badge badge-danger'>01.30.2021 11:47:27</span>
+<span class='badge badge-default'>00:00:00:000</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
+</div>
+</div>
+</div>          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="2"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">pimTest</p>
+            <p class="text-sm">
+              <span>11:48:10 AM</span> / <span>00:00:00:000</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">pimTest</h5>
+<span class='badge badge-success'>01.30.2021 11:48:10</span>
+<span class='badge badge-danger'>01.30.2021 11:48:10</span>
+<span class='badge badge-default'>00:00:00:000</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=2</span>
+</div>
+</div>
+</div>          </div>
+        </li>
       </ul>
     </div>
   </div>
@@ -87,19 +136,19 @@
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>15-01-2021 13:07:46</h3>
+<h3>30-01-2021 11:47:03</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>15-01-2021 13:07:46</h3>
+<h3>30-01-2021 11:48:50</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-pass">Tests Passed</p>
-<h3>0</h3>
+<h3>2</h3>
 </div></div>
 </div>
 <div class="col-md-3">
@@ -121,8 +170,8 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='0%'>
-<b>0</b> tests passed
+<div><small data-tooltip='100%'>
+<b>2</b> tests passed
 </small>
 </div>
 <div>
@@ -143,6 +192,7 @@
 </div></div>
 <script>
 var timeline = {
+"adminTest":0,"pimTest":0
 };
 </script>
 <div class="row">
@@ -151,7 +201,7 @@ var timeline = {
 <script>
 var statusGroup = {
 parentCount: 5,
-passParent: 0,
+passParent: 2,
 failParent: 0,
 warningParent: 0,
 skipParent: 0,

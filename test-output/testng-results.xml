@@ -1,27 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="0" passed="0" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-29T13:00:08Z" name="Suite" finished-at="2021-01-29T13:00:09Z" duration-ms="1362">
+  <suite name="Suite" duration-ms="95113" started-at="2021-01-30T06:36:23Z" finished-at="2021-01-30T06:37:58Z">
     <groups>
     </groups>
-    <test started-at="2021-01-29T13:00:08Z" name="Test" finished-at="2021-01-29T13:00:09Z" duration-ms="1362">
-      <class name="com.orangehrm.testCases.TC_002_AdminPage">
-        <test-method is-config="true" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:com.orangehrm.testCases.TC_002_AdminPage@27c86f2d]" started-at="2021-01-29T18:30:08Z" name="beforeTest" finished-at="2021-01-29T18:30:08Z" duration-ms="586" status="PASS">
+    <test name="Test" duration-ms="95113" started-at="2021-01-30T06:36:23Z" finished-at="2021-01-30T06:37:58Z">
+      <class name="com.orangehrm.testCases.TC_001_LoginTest">
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:com.orangehrm.testCases.TC_001_LoginTest@77caeb3e]" name="beforeTest" is-config="true" duration-ms="1214" started-at="2021-01-30T12:06:23Z" finished-at="2021-01-30T12:06:24Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3bcbb589]]>
+                <![CDATA[org.testng.TestRunner@63429932]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.orangehrm.testCases.TC_002_AdminPage@27c86f2d]" started-at="2021-01-29T18:30:08Z" name="afterTest" finished-at="2021-01-29T18:30:09Z" duration-ms="761" status="PASS">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.testCases.TC_001_LoginTest@77caeb3e]" name="setup" is-config="true" duration-ms="38934" started-at="2021-01-30T12:06:24Z" finished-at="2021-01-30T12:07:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.orangehrm.testCases.TC_001_LoginTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="41" started-at="2021-01-30T12:07:03Z" finished-at="2021-01-30T12:07:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.orangehrm.testCases.TC_001_LoginTest.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.orangehrm.testCases.TC_001_LoginTest@77caeb3e]" name="loginTest" duration-ms="11633" started-at="2021-01-30T12:07:03Z" finished-at="2021-01-30T12:07:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orangehrm.testCases.TC_001_LoginTest@77caeb3e]" name="teardown" is-config="true" duration-ms="1407" started-at="2021-01-30T12:07:15Z" finished-at="2021-01-30T12:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.orangehrm.testCases.TC_001_LoginTest@77caeb3e]" name="afterTest" is-config="true" duration-ms="3566" started-at="2021-01-30T12:07:55Z" finished-at="2021-01-30T12:07:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
+      </class> <!-- com.orangehrm.testCases.TC_001_LoginTest -->
+      <class name="com.orangehrm.testCases.TC_002_AdminPage">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.orangehrm.testCases.TC_002_AdminPage@1e88b3c]" name="setup" is-config="true" duration-ms="13257" started-at="2021-01-30T12:07:16Z" finished-at="2021-01-30T12:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.orangehrm.testCases.TC_002_AdminPage@1e88b3c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-30T12:07:30Z" finished-at="2021-01-30T12:07:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.orangehrm.testCases.TC_002_AdminPage.adminTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="adminTest()[pri:0, instance:com.orangehrm.testCases.TC_002_AdminPage@1e88b3c]" name="adminTest" duration-ms="23897" started-at="2021-01-30T12:07:30Z" finished-at="2021-01-30T12:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.orangehrm.testCases.TC_002_AdminPage@1e88b3c]" name="teardown" is-config="true" duration-ms="1090" started-at="2021-01-30T12:07:53Z" finished-at="2021-01-30T12:07:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
       </class> <!-- com.orangehrm.testCases.TC_002_AdminPage -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

@@ -111,3 +111,25 @@
 2021-01-29 18:06:17,063 [main] INFO automation - Launching Application
 2021-01-29 18:12:01,344 [main] INFO automation - Firefox driver launched sucessfully
 2021-01-29 18:12:10,778 [main] INFO automation - Launching Application
+2021-01-30 11:37:32,307 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 11:37:44,759 [main] INFO automation - Launching Application
+2021-01-30 11:38:33,602 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 11:38:48,717 [main] INFO automation - Launching Application
+2021-01-30 11:47:16,772 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 11:47:27,670 [main] INFO automation - Launching Application
+2021-01-30 11:47:59,658 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 11:48:10,020 [main] INFO automation - Launching Application
+2021-01-30 12:03:53,227 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 12:04:02,792 [main] INFO automation - Launching Application
+2021-01-30 12:04:12,434 [main] INFO automation - Entered username and password and clicked on login button
+2021-01-30 12:04:12,471 [main] INFO automation - Login test passed
+2021-01-30 12:04:19,278 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 12:04:28,411 [main] INFO automation - Launching Application
+2021-01-30 12:04:55,184 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 12:05:04,438 [main] INFO automation - Launching Application
+2021-01-30 12:06:35,635 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 12:07:03,626 [main] INFO automation - Launching Application
+2021-01-30 12:07:14,081 [main] INFO automation - Entered username and password and clicked on login button
+2021-01-30 12:07:14,118 [main] INFO automation - Login test passed
+2021-01-30 12:07:21,994 [main] INFO automation - Chrome driver launched sucessfully
+2021-01-30 12:07:29,999 [main] INFO automation - Launching Application

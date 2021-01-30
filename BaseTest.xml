@@ -3,13 +3,11 @@
 <suite name="Suite">
 
 	<test name="Test">
-		<parameter name="browser" value="firefox" />
+		<parameter name="browser" value="chrome" />
 		<classes>
-		 <!-- class name="com.orangehrm.testCases.TC_LoginTest_001"  -->
-			
+			<!-- class name="com.orangehrm.testCases.TC_LoginTest_001" -->
+			<class name="com.orangehrm.testCases.TC_001_LoginTest" />
 			<class name="com.orangehrm.testCases.TC_002_AdminPage" />
-			<class name="com.orangehrm.testCases.TC_003_PimTest" />
-			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
